@@ -6,9 +6,9 @@ title: Hello World
 -->
 # WAAG SOCIETY OPEN WETLAB INTERNSHIP
 
-## Subtitle
+<!--## Subtitle-->
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+my Github Jekyll page
 
 **DESIGN PROJECT #1. DIY Camera Lucida Microscope**
 
