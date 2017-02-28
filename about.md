@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the BioHack Academy documentation site of Sumeyye
+This is the Waag Society Open Wetlab Internship documentation site of Sumeyye
