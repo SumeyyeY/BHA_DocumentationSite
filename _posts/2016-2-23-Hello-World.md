@@ -9,6 +9,6 @@ title: Hello World
 
 First post on my Github Jekyll page on the first day of the BioHack Academy
 
-**bold**
+//**bold**
 
 [link to BioHack Academy](http://biohackacademy.github.io/)
