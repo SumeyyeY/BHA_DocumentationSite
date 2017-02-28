@@ -8,7 +8,7 @@ title: Hello World
 
 <!--## Subtitle-->
 
-my Github Jekyll page
+<!--my Github Jekyll page-->
 
 **DESIGN PROJECT #1. DIY Camera Lucida Microscope**
 
