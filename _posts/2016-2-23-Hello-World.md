@@ -1,8 +1,9 @@
+<!-- code for box:
 ---
 layout: post
 title: Hello World
 ---
-<!- trial->
+-->
 # WAAG SOCIETY OPEN WETLAB INTERNSHIP
 
 ## Subtitle
