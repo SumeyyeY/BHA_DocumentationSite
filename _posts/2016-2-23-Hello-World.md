@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 ---
-<!-trial->
+<!- trial->
 # WAAG SOCIETY OPEN WETLAB INTERNSHIP
 
 ## Subtitle
