@@ -11,4 +11,4 @@ title: Hello World
 
 **DESIGN PROJECT #1. DIY Camera Lucida Microscope**
 
-[link to BioHack Academy](http://biohackacademy.github.io/)
+[to BioHack Academy](http://biohackacademy.github.io/)
