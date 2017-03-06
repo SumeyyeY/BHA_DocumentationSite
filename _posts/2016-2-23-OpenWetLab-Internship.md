@@ -1,9 +1,7 @@
-<!-- code for box:
 ---
 layout: post
 title: Hello World
 ---
--->
 
 <!--## Subtitle-->
 
